@@ -1,10 +1,6 @@
-# build-your-own-llm
-Hands-on workshop notebook: build a byte-level BPE tokenizer, a GPT-2-style Transformer (MiniGPT2) in PyTorch, LoRA fine-tuning of DistilGPT2, a RAG pipeline with ChromaDB + LangChain, and a Gradio app. Taught to 71 students.
-
 # Build Your Own LLM: Pretrain, Fine-tune, and Deploy
 
-A full-day hands-on workshop I taught to 71 students as Tech Master of the
-Salesforce Campus Club, Amrita Vishwa Vidyapeetham, Bengaluru. Everything runs
+Hands-on workshop notebook: build a byte-level BPE tokenizer, a GPT-2-style Transformer (MiniGPT2) in PyTorch, LoRA fine-tuning of DistilGPT2, a RAG pipeline with ChromaDB + LangChain, and a Gradio app. Taught to 71 students by me at Amrita Vishwa Vidyapeetham, Bengaluru. Everything runs
 in a single Google Colab notebook on a free GPU (or a standard laptop).
 
 ## What you build
